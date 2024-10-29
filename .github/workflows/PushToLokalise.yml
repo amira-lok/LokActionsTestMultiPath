@@ -16,7 +16,7 @@ jobs:
         uses: bodrovis/lokalise-push-action@locales_folders_list
         with:
           api_token: ${{ secrets.LOKALISE_API_TOKEN }}
-          project_id: 5868381966b39e5053ff15.63486389
+          project_id: 4802394962963e6990a4e5.99847316
           base_lang: en
           translations_path: |
             local
